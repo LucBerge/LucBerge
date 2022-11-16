@@ -4,7 +4,7 @@
 - 👯 I’m looking for help with the [B4D project](https://github.com/bot4dofus)
 - 💬 [Ask me anything](https://github.com/LucBerge/LucBerge/issues/new)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucBerge&show_icons=true&include_all_commits=true&hide_border=true" alt="LucBerge's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucBerge&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=LucBerge&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,COLLABORATOR" alt="LucBerge's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api/top-langs/?username=LucBerge&layout=compact&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&hide=actionscript" /></a> |
 | ------------- | ------------- |
 
 <p align="center">
