@@ -1,6 +1,6 @@
 ### That's me 👋
 
-- :heart: Open source lover
+- ❤️ Open source lover
 - 👯 I’m looking for help with the [B4D project](https://github.com/bot4dofus)
 - 🖼️ Checkout my wallpaper tool called [wallme](https://github.com/LucBerge/wallme)
 - ⁉️ Need to do a pool on your readme? [vote-badge](https://github.com/LucBerge/vote-badge) is what you need!
